@@ -1,6 +1,6 @@
-# Custom Content Portfolio
+# Go:Publish Projects
 
-Custom Content Portfolio is a complete portfolio solution for artists, freelancers, and other creative people who need to show off their projects on their site.
+Go:Publish Projects is a complete portfolio solution for artists, freelancers, and other creative people who need to show off their projects on their site. It's a fork of Justin Tadlock's [Custom Content Portfolio](https://themehybrid.com/plugins/custom-content-portfolio), modernized for the block editor and block themes.
 
 ## Plugin Features
 
@@ -9,7 +9,6 @@ Custom Content Portfolio is a complete portfolio solution for artists, freelance
 * **Tags:** Tag individual portfolio projects.
 * **Project Details:** Add custom project details such as a project image, URL, client, location, start/end dates, and a description.
 * **Custom Permalinks:** Customize your portfolio permalinks to your own liking.
-* **Sticky Projects:** Stick projects to the portfolio page.
 * **Post Formats:** If your theme supports the, projects can have the audio, gallery, image, or video formats.
 
 ## Professional Support
