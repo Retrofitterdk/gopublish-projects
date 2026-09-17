@@ -1,19 +1,19 @@
-=== Custom Content Portfolio ===
+=== Go:Publish Projects ===
 
 Contributors: greenshady
 Donate link: https://themehybrid.com/donate
 Tags: portfolio, projects
-Requires at least: 4.7
-Tested up to: 4.8.2
-Requires PHP: 5.2
-Stable tag: 2.1.0
+Requires at least: 5.8
+Tested up to: 6.8
+Requires PHP: 7.4
+Stable tag: 4.0.0
 License: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
 A complete portfolio solution for creative people.
 
 == Description ==
 
-Custom Content Portfolio is a portfolio management plugin for creative people such as artists, photographers, and Web designers to showcase their work.  Just like what bbPress is doing for forums and BuddyPress is doing for social networks, Custom Content Portfolio is doing for portfolios.
+Go:Publish Projects is a fork of Justin Tadlock's [Custom Content Portfolio](https://themehybrid.com/plugins/custom-content-portfolio), modernized for the block editor and block themes. It's a portfolio management plugin for creative people such as artists, photographers, and Web designers to showcase their work.  Just like what bbPress is doing for forums and BuddyPress is doing for social networks, this plugin is doing for portfolios.
 
 This plugin was created because of the rising need from users who are downloading WordPress themes with portfolio management built in (not a good idea for content portability).  I wanted users to be able to switch themes without losing their content.  This will also allow any theme developer to build a theme on top of this plugin.
 
@@ -22,12 +22,11 @@ This plugin was created because of the rising need from users who are downloadin
 * **Projects:** Create individual projects for your portfolio.
 * **Categories:** Categorize portfolio projects.
 * **Tags:** Tag individual portfolio projects.
-* **Project Details:** Add custom project details such as a project image, URL, client, location, start/end dates, and a description.
+* **Project Details:** Add custom project details such as a project image, URL, client, location, start/end dates, and a description, editable from the block editor's document settings sidebar.
 * **Custom Permalinks:** Customize your portfolio permalinks to your own liking.
-* **Sticky Projects:** Stick projects to the portfolio page.
 * **Post Formats:** If your theme supports them, projects can have the audio, gallery, image, or video formats.
 
-For more info, visit the [Custom Content Portfolio](https://themehybrid.com/plugin/custom-content-portfolio) plugin home page.
+For more info on the original plugin, visit the [Custom Content Portfolio](https://themehybrid.com/plugin/custom-content-portfolio) plugin home page.
 
 ### Like this plugin?
 
